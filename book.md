@@ -4,4 +4,4 @@
 
 ---
 
-[리팩토링](https://github.com/khs-note/book-refactoring)
+[book-refactoring](https://github.com/khs-note/book-refactoring): 리팩토링: 프로그램의 가치를 높이는 코드 정리 기술 `마틴 파울러`
