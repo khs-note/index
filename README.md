@@ -1,6 +1,12 @@
 # index
-문서 색인
+레파지토리 색인
 
-## 폴더 구조
+## 차 례
 
-book: 서적 관련 정보
+[book](https://github.com/khs-note/index/blob/master/book.md): 서적 정보
+
+setting: 개발환경 정보
+
+web: 웹 클라이언트
+
+was: 웹 서버
