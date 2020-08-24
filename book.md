@@ -2,7 +2,7 @@
 
 서적 관련 정보 정리
 
----
+## 레파지토리
 
 [book-implementation-patterns](https://github.com/khs-note/book-implementation-patterns): 켄트 벡의 구현 패턴 `켄트 벡`
 
