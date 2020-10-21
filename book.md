@@ -4,6 +4,8 @@
 
 ## 레파지토리
 
+[002. 리팩터링(2판)](https://github.com/khs-note/book-002)
+
 [001. 오브젝트 디자인 스타일 가이드](https://github.com/khs-note/book-001)
 
 [book-implementation-patterns](https://github.com/khs-note/book-implementation-patterns): 켄트 벡의 구현 패턴 `켄트 벡`
