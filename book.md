@@ -4,6 +4,8 @@
 
 ## 레파지토리
 
+[003. 자료구조와 함께 배우는 알고리즘 입문 자바](https://github.com/khs-note/book-003)
+
 [002. 리팩터링(2판)](https://github.com/khs-note/book-002)
 
 [001. 오브젝트 디자인 스타일 가이드](https://github.com/khs-note/book-001)
