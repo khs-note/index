@@ -2,6 +2,11 @@
 
 서적 관련 정보 정리
 
+## 스터디
+
+[플러터](https://github.com/khs-note/study-flutter)
+
+
 ## 레파지토리
 
 [004. 프레임워크 없는 프론트엔드 개발](https://github.com/khs-note/book-004)
