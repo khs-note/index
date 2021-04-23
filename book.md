@@ -13,7 +13,7 @@
 
 [006. 객체지향의 사실과 오해](https://github.com/khs-note/book-006)
 
-[005. 구현패턴](https://github.com/khs-note/book-005)
+[005. 켄트벡의 구현패턴](https://github.com/khs-note/book-005)
 
 [004. 프레임워크 없는 프론트엔드 개발](https://github.com/khs-note/book-004)
 
