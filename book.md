@@ -11,7 +11,7 @@
 
 ## 레파지토리
 
-[007. 자바스크립트 스키업](https://github.com/khs-note/book-007)
+[007. 자바스크립트 스킬업](https://github.com/khs-note/book-007)
 
 [006. 객체지향의 사실과 오해](https://github.com/khs-note/book-006)
 
