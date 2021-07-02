@@ -5,7 +5,7 @@
 
 ## 색인 정보
 
-[book](https://github.com/khs-note/index/blob/master/book.md): 서적 정보
+[book](book.md): 서적 정보
 
 setting: 개발환경 정보
 
