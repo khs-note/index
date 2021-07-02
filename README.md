@@ -11,6 +11,5 @@ setting: 개발환경 정보
 
 [a2](https://github.com/khs-note/index/blob/master/a2.md): 아니
 
-web: 웹 클라이언트
+[웹(web)](web.md)
 
-was: 웹 서버
