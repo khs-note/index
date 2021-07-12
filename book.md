@@ -23,7 +23,7 @@
 
 [002. 리팩터링(2판)](https://github.com/khs-note/book-002)
 
-[001. 오브젝트 디자인 스타일 가이드](https://github.com/khs-note/book-001)
+:ok_hand: [001. 오브젝트 디자인 스타일 가이드](https://github.com/khs-note/book-001)
 
 [book-refactoring](https://github.com/khs-note/book-refactoring): 리팩토링: 프로그램의 가치를 높이는 코드 정리 기술 `마틴 파울러`
 
