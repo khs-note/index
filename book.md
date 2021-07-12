@@ -11,13 +11,15 @@
 
 ## 레파지토리
 
+[008. 프레임워크 없는 프론트엔드 개발](https://github.com/khs-note/book-008)
+
 [007. 자바스크립트 스킬업](https://github.com/khs-note/book-007)
 
 [006. 객체지향의 사실과 오해](https://github.com/khs-note/book-006)
 
-[005. 켄트벡의 구현패턴](https://github.com/khs-note/book-005)
+:ok_hand: [005. 켄트벡의 구현패턴](https://github.com/khs-note/book-005)
 
-[004. 프레임워크 없는 프론트엔드 개발](https://github.com/khs-note/book-004)
+'004. 프레임워크 없는 프론트엔드 개발'
 
 [003. 자료구조와 함께 배우는 알고리즘 입문 자바](https://github.com/khs-note/book-003)
 
