@@ -11,6 +11,8 @@
 
 ## 레파지토리
 
+[009. 자바스크립트는 왜 그 모양일까?](https://github.com/khs-note/book-009)
+
 [008. 프레임워크 없는 프론트엔드 개발](https://github.com/khs-note/book-008)
 
 [007. 자바스크립트 스킬업](https://github.com/khs-note/book-007)
