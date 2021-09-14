@@ -11,6 +11,10 @@
 
 ## 레파지토리
 
+[011. YOU DON'T KNOW JS(this 와 객체 프로토타입, 비동기와 성능)](https://github.com/khs-note/book-011)
+
+[010. YOU DON'T KNOW JS (타입과 문법, 스코프와 클로저)](https://github.com/khs-note/book-010)
+
 [009. 자바스크립트는 왜 그 모양일까?](https://github.com/khs-note/book-009)
 
 [008. 프레임워크 없는 프론트엔드 개발](https://github.com/khs-note/book-008)
